@@ -1,0 +1,28 @@
+.Nav {
+    background-color: rgb(77, 94, 222);
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+    text-align: center; 
+  }
+  
+  .Nav ul {
+    list-style-type: none; 
+    padding: 0;
+  }
+  
+  .Nav li {
+    display: inline-block; 
+    margin-right: 50px; 
+  }
+  
+  .Nav-link {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .Nav-link:hover {
+    color: black;
+  }
+  

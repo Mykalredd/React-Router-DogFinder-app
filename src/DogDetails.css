@@ -1,0 +1,25 @@
+.DogDetails {
+    text-align: center;
+  }
+  
+  .DogDetails-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .DogDetails-image {
+    padding-right: 10px; 
+  }
+
+  .DogDetails img {
+    max-width: auto; 
+    height: 500px; 
+  }
+  
+  .DogDetails-facts ul {
+    list-style-type: none;
+    text-align: left; 
+    padding: 0;
+  }
+  

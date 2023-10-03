@@ -1,0 +1,9 @@
+.DogList-link {
+    /* text-decoration: none; */
+    color: rgb(77, 94, 222);
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .DogList-link:hover {
+    color: red;
+  }
